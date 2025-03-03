@@ -1,0 +1,31 @@
+Reflection of course CS300 Analysis and Design
+
+1. What was the problem you were solving in the projects for this course?
+
+This project involved designing a program to read computer science course data from a file, store it using one of three data structures (Binary Search Tree, Hash Table, or Vector Sorting), and then print a sorted 
+list of courses and prerequisites in alphanumeric order.  The chosen data structure was vector sorting due to its efficiency in scanning.  Data structures are crucial for efficient data management and manipulation, 
+enabling tasks like sorting and searching to be performed effectively.  The program's objective was to display the course list alphanumerically, from lowest to highest.
+
+2. How did you approach the problem? Consider why data structures are important to understand.
+
+Data structures are crucial for efficient program design.  Vector sorting was chosen because it enables effective algorithm application across various fields. Its use in organizing data elements saves 
+time and simplifies handling large datasets, aiding in error detection and facilitating tasks like data extraction and processing.  The roadblocks I encountered during the project were overcome through 
+careful planning, taking my time and problem-solving.
+
+3. How did you overcome any roadblocks you encountered while going through the activities or project?
+
+I had troubles during this course, but I was able to overcome the roadblocks in this course by taking my time slower to truly understand each assignment to complete the assignments efficiently and effectively.
+At times I found myself re-reading the required steps and looking at all my resources to ensure that I was able to fully understand, as well as completing the assignments throughout the weeks.
+
+
+4. How has your work on this project expanded your approach to designing software and developing programs?
+
+This project significantly improved my software design approach.  I learned efficient coding techniques for applications, enhancing my critical thinking and problem-solving skills. 
+The course and project solidified my understanding of programming concepts, enabling me to effectively use loops and variables, which previously challenged me.  My coding skills and analytical abilities have 
+greatly increased.
+
+
+5. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+
+This project helped me improve my programming skills by applying Object-Oriented Programming principles. This approach ensures code reusability, maintainability, readability, flexibility, and adaptability. 
+I learned the value of data structures for efficient data management, storage, and retrieval.  The project's goal of creating easily accessible and reusable code for others reinforced these principles.
