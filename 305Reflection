@@ -1,0 +1,15 @@
+#Client Summary:
+Artemis Financial is a consulting company focused on personalized financial planning. They needed to enhance the security of their web application to protect sensitive client data and ensure secure communication,
+particularly through HTTPS encryption and file verification.
+#Security Work and Importance:
+I successfully identified and addressed vulnerabilities by configuring HTTPS using a self-signed certificate, implementing SHA-256 checksum verification, and applying OWASP Dependency-Check for static analysis. Secure coding is essential to protect data, maintain trust, and reduce business risks. Software security ensures long-term system reliability and client confidence.
+#Challenges and Lessons:
+The most challenging part was configuring the SSL certificate and making Eclipse recognize the application correctly. However, understanding the secure communication flow was extremely helpful for future backend security setups.
+#Security Layers and Mitigation:
+I increased security by adding encryption (SSL), hash-based verification, and static vulnerability scans. In the future, I would also consider using tools like SonarQube or Snyk for deeper vulnerability analysis.
+#Functionality and Verification:
+I confirmed the app was secure and functional through successful compilation, endpoint testing (https://localhost:8443/hash), and validation with no errors or new vulnerabilities using OWASP Dependency-Check.
+#Useful Tools and Practices:
+I used the Java Keytool, Spring Boot SSL configuration, SHA-256 hashing, and Maven with OWASP Dependency-Check. These will all be valuable in future Java and backend security projects.
+# Employer Showcase:
+This project showcases my ability to implement HTTPS, perform static security checks, and write secure, functional backend code—all essential skills for software development and cybersecurity roles.
